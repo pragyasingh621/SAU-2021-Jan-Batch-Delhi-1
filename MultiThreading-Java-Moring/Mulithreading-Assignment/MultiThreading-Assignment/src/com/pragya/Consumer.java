@@ -28,6 +28,6 @@ public class Consumer extends Thread {
 				System.out.println("Consuming value : " + queue.remove());
 				queue.notifyAll(); } } }
 
-//	Read more: https://javarevisited.blogspot.com/2015/07/how-to-use-wait-notify-and-notifyall-in.html#ixzz6kG0Lm2pe
+
 
 }

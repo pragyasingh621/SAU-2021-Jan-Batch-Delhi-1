@@ -17,7 +17,7 @@ public class ProducerConsumerProblem {
 		producer.start(); 
 		consumer.start();
 
-//		Read more: https://javarevisited.blogspot.com/2015/07/how-to-use-wait-notify-and-notifyall-in.html#ixzz6kFz3w9CM
+
 
 	}
 
